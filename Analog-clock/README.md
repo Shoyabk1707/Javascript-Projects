@@ -36,6 +36,7 @@ The project utilizes the following technologies:
 
 Feel free to fork this repository and make improvements! You can add features, enhance the design, or fix any bugs you encounter.
 
-### License
+## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the [MIT License](LICENSE).
+
