@@ -12,9 +12,7 @@ This repository contains a simple analog watch built using HTML, CSS, and JavaSc
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Shoyabk1707/Javascript-Projects/Analog-clock
-.git
-   ```
+   git clone https://github.com/Shoyabk1707/Javascript-Projects/Analog-clock.git```
 
 2. Open the `index.html` file in your web browser.
 
