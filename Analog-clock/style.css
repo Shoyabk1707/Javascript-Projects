@@ -1,10 +1,8 @@
 
-
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
 }
 
 :root{
@@ -22,8 +20,19 @@ body{
     background: var(--primary-color);
 }
 
-.container{
+body.dark{
+    --primary-color: #292929d7;
+    --white-color: #111314;
+    --black-color: #eaeaea;
+    --red-color: #e74c3c;
+}
 
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 60px;
 }
 
 .container .clock{
@@ -59,6 +68,8 @@ body{
     height: 10px;
     width: 10px;
     background-color: red;
+    display: flex;
+    justify-content: center;
 }
 
 .indicator::before{
@@ -91,9 +102,19 @@ body{
 }
 
 .hand.hour{
-    height: 1o0px;
+    height: 100px;
     width: 8px;
     /* transform: rotate(50deg); */
     background: var(--black-color);
 
+}
+
+.mode-switch{
+    background: var(--black-color);
+    color: var(--white-color);
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 22px;
+    display: inline-block;
+    font-weight: 400;
 }
