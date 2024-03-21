@@ -15,8 +15,10 @@ This web application provides accurate weather forecasts for locations worldwide
 ## How to Use
 1. Clone this repository to your local machine.
 2. Open `index.html` in your web browser.
-3. Enter the location for which you want to check the weather.
-4. Explore the current weather conditions and forecast.
+or
+3. You can try out by visiting: [click here ](https://sensational-starlight-a53144.netlify.app/) 
+4. Enter the location for which you want to check the weather.
+5. Explore the current weather conditions and forecast.
 
 ## Screenshots
 Include screenshots or GIFs demonstrating the app's functionality and design.
