@@ -25,10 +25,3 @@ Contributions are welcome! If you'd like to enhance the app or fix any issues, f
 ## License
 Thos repository is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as needed.
 
-## Acknowledgements
-- [Any libraries or frameworks used]
-- [Credits to individuals or organizations for inspiration or resources]
-
----
-
-Feel free to customize this README.md file according to your app's specific details and requirements.
