@@ -16,7 +16,7 @@ Manage your tasks effortlessly with this Todo-list web application. Built with H
 1. Clone this repository to your local machine.
 2. Open `index.html` in your web browser.
 3. Add your tasks, edit them as needed, and mark them as completed when finished.
-4. Or simply click on the provided link: [ToDo-List](https://660a6081bd20166c5a78b538--stirring-gnome-cbc0bf.netlify.app/).. This will take you to the live version , where you can explore its features and content.
+4. Or simply click on the provided link: [ToDo-List](https://660a6081bd20166c5a78b538--stirring-gnome-cbc0bf.netlify.app/). This will take you to the live version , where you can explore its features and content.
 
 
 ## Contributing
