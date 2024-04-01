@@ -16,15 +16,14 @@ Manage your tasks effortlessly with this Todo-list web application. Built with H
 1. Clone this repository to your local machine.
 2. Open `index.html` in your web browser.
 3. Add your tasks, edit them as needed, and mark them as completed when finished.
+4. Or simply click on the provided link: [ToDo-List](https://660a6081bd20166c5a78b538--stirring-gnome-cbc0bf.netlify.app/).. This will take you to the live version , where you can explore its features and content.
 
-## Screenshots
-Include screenshots or GIFs demonstrating the app's functionality and design.
 
 ## Contributing
 Contributions are welcome! If you'd like to enhance the app or fix any issues, feel free to fork this repository and submit a pull request.
 
 ## License
-[Your License Here, e.g., MIT License]
+Thos repository is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as needed.
 
 ## Acknowledgements
 - [Any libraries or frameworks used]
