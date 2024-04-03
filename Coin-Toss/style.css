@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-image: url('Assets/bg.png') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    mask-position: relative;
+    width: 400px;
+    height: 400px;
+    background: rgba(193, 191, 191, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(144, 144, 144, 0.275);
+    backdrop-filter: blur(5px);
+    border: 1px solid rgba(207, 207, 207, 0.203);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* border-radius: 10px; */
+}
+
+.coin{
+    height: 150px;
+    width: 150px;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 100px;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+}
+
+.coin img{
+    width: 150px;
+}
+
+.head, .tail{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.tail{
+    transform: rotateX(180deg);
+}
+
+@keyframes spin-tails{
+    0%{
+        transform: rotateX(0);
+    }
+    100%{
+        transform: rotateX(1980deg);
+    }
+}
+@keyframes spin-heads{
+    0%{
+        transform: rotateX(0);
+    }
+    100%{
+        transform: rotateX(2160deg);
+    }
+}
+
+.flip-btn{
+    align-items: center;
+    background-color: #f8b174;
+    border-radius: 8px;
+    border-style: none;
+    color: #565656;
+    cursor: pointer;
+    display: flex;
+    font-family: "RM Neue",sans-serif;
+    font-size: 100%;
+    font-weight: 600;
+    letter-spacing: 0.9px;
+    padding: 10px 21px;
+    text-align: center;
+    text-transform: none;
+    /* transition: color .13s ease-in-out,background .13s ease-in-out,opacity .13s ease-in-out,box-shadow .13s ease-in-out; */
+    position: relative;
+    margin: 70px auto;
+ 
+  
+}
+
+.flip-btn:disabled{
+    background-color: #c0c0c0;
+    border-color:#aeaeaf ;
+    color: #101020;
+}
+
+/* .flip-btn:hover {
+    background-color: #f7ac6b;
+} */
