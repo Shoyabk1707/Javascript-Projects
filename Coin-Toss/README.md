@@ -24,7 +24,7 @@ To use the Coin Toss Web App, follow these steps:
 2. Open the `index.html` file in your preferred web browser.
 3. Click on the "Toss Coin" button to simulate a coin toss.
 4. The result of the coin toss (either "Heads" or "Tails") will be displayed on the screen.
-5. Or you can view it on [Coin-toss]('https://660d246ee94936bbbae38ce3--musical-dasik-3bbc36.netlify.app/').
+5. Or simply click on the  [Coin-toss](https://660d246ee94936bbbae38ce3--musical-dasik-3bbc36.netlify.app/), This will take you to the live version.
 
 ## Contributing
 
