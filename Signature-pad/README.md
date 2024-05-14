@@ -23,7 +23,8 @@ To run the Signature Pad Web App locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-username/signature-pad.git`
 2. Navigate to the project directory: `cd signature-pad`
 3. Open the `index.html` file in a web browser.
-   Or Simply visit : [Signature-pad](https://signature-padd.netlify.app/)
+
+Or Simply visit : [Signature-pad](https://signature-padd.netlify.app/)
 
 ## Contributing
 
